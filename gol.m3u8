@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="en",NAME="English",AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-MEDIA:TYPE=CLOSED-CAPTIONS,GROUP-ID="cc",LANGUAGE="en",NAME="English",INSTREAM-ID="CC1",AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",NAME="English Radio",LANGUAGE="en",AUTOSELECT=NO,URI="https://cdn-goltv-latinamerica-sa-01.vos360.video/Content/HLS/Live/channel(d8ec61a6-ca78-4525-acd5-107c1210ffcd)/05.m3u8?hdntl=exp=1614200863~acl=/*~data=hdntl~hmac=994cc1f420f115b3b204893046f4d62ca17e0352c841e7ae8b5b1dd4830ec28b"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",NAME="Radio Española",LANGUAGE="es",AUTOSELECT=YES,URI="https://cdn-goltv-latinamerica-sa-01.vos360.video/Content/HLS/Live/channel(d8ec61a6-ca78-4525-acd5-107c1210ffcd)/05.m3u8?hdntl=exp=1614200863~acl=/*~data=hdntl~hmac=994cc1f420f115b3b204893046f4d62ca17e0352c841e7ae8b5b1dd4830ec28b"
+#EXT-X-STREAM-INF:BANDWIDTH=6600000,RESOLUTION=1280x720,FRAME-RATE=59.94,CODECS="mp4a.40.2,avc1.640028",CLOSED-CAPTIONS="cc",AUDIO="aac"
+https://cdn-goltv-latinamerica-sa-01.vos360.video/Content/HLS/Live/channel(d8ec61a6-ca78-4525-acd5-107c1210ffcd)/04.m3u8?hdntl=exp=1614200863~acl=/*~data=hdntl~hmac=994cc1f420f115b3b204893046f4d62ca17e0352c841e7ae8b5b1dd4830ec28b
